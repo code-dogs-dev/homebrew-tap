@@ -1,7 +1,17 @@
 # code-dogs homebrew tap
 
+
 Homebrew formulae and casks for code-dogs tools.
 
+## Usage
+
+```bash
+brew tap code-dogs-dev/tap
+brew install <name>
 ```
-brew install code-dogs-dev/tap/rpup
+
+Or install directly without tapping first:
+
+```bash
+brew install code-dogs-dev/tap/<name>
 ```
